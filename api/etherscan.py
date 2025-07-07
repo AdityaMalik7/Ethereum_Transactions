@@ -2,7 +2,7 @@ from requests import get
 from matplotlib import pyplot as plt
 from datetime import datetime
 
-API_KEY = "EKK92GU16TR27CA55HRUFYSBFYC7W8MSBP"
+API_KEY = "" # add your api key from etherscan 
 address = "0x73bceb1cd57c711feac4224d062b0f6ff338501e"
 BASE_URL = "https://api.etherscan.io/api?"
 ETHER_VALUE = 10 ** 18
